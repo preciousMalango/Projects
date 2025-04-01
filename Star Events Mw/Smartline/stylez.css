@@ -1,0 +1,28 @@
+header{
+    background-color: azure;
+    padding: 20px;
+    display: flex;
+    
+}
+.heroSection{
+    background : image(url(smartpic2.jpg));
+    padding: 80px;
+
+}
+
+.featuredCategories{
+    background-color: rgb(237, 237, 130);
+    padding: 60px;
+}
+
+.categories{
+    display: flex;
+    padding: ;
+    
+}
+
+footer{
+    background-color: rgb(21, 21, 21);
+    padding: 40px;
+    display: flex;
+}

@@ -1,0 +1,17 @@
+#include <iostream>
+#include <ctsdlib>
+using namespace std;
+
+int main ()
+{ 
+    //generate random numbers
+    cout<< rand()<< endl;
+    cout<< rand()<< endl;
+    cout<< rand()<< endl;
+    
+    // to puase the program
+    cin.ignore();
+    cin.get();
+    
+    return 0;
+}

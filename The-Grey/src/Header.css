@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-grow: 1;
+    padding: 5px;
+    background-image: url("/chips\ chicken.jpg");
+}
+
+header li{
+    list-style: none;
+    color: green;
+    font-weight: bold;
+}
+header li span{
+    color: yellow;
+    font-weight: bold;
+}
